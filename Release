@@ -1,0 +1,8 @@
+Origin: Steven's Private Repo 
+Label: Steven's Repo (
+Suite: stable
+Version: 0.0.1-5
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Steven's Repo

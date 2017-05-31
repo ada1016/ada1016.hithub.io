@@ -1,0 +1,13 @@
+Package: com.sj.valiantf
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: Sj <ada1016@gmail.com>
+Filename: /ValiantForceTweak.deb
+Size: 1451844
+MD5sum: 0fbfaa33e768ce08941067d10b7dc6a5
+SHA1: 879725c85994d412629d96299f2eab4c72da58a5
+SHA256: b76aeeaef24d8d66afce39f96cb430a7d41c915c0020a25ad8988eefc9fadfa8
+Section: Tweaks
+Description: Somthing cool
+Author: Sj <ada1016@gmail.com>
+Name: ValiantForceTweak 9
